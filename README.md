@@ -1,4 +1,4 @@
-# chords_synesthesia
+# [chords_synesthesia](https://github.com/barionleg/chords_synesthesia/wiki)
 
 <img src="https://raw.githubusercontent.com/aibolem/WebWorldWind/refs/heads/master/examples/data/blageos.png" height="100"/>
 
