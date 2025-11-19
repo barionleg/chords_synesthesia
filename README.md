@@ -12,3 +12,11 @@ https://barionleg.github.io/chords_synesthesia/index.html
 
 
 <img src="https://raw.githubusercontent.com/barionleg/chords_synesthesia/e2365cbe5893f5bed47ac992b2936e8907c8f239/diatonicchordscircle.svg" height="100%"/>
+
+
+https://gist.github.com/barionleg/bbfd5191f1def908ad64160914e27958
+
+
+https://barionleg.github.io/baegaistview/
+
+https://github.com/barionleg/baegaistview/wiki
